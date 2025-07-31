@@ -29,8 +29,10 @@
   <a href="mailto:abhishekps5171@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://leetcode.com/Abhishek-Singh016/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
-
 ---
 
 ### 🔥 Tech Stack
